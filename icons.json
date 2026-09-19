@@ -1,0 +1,1448 @@
+{
+ "name": "Vigil Icons",
+ "version": "2.0.0",
+ "count": 111,
+ "drawn": 111,
+ "grid": 24,
+ "style": "filled outline, single path, fill=currentColor",
+ "license": "https://www.vigilicons.com/LICENSE.txt",
+ "site": "https://www.vigilicons.com/",
+ "cdn": "https://cdn.jsdelivr.net/npm/vigil-icons@latest/svg/{slug}.svg",
+ "svg": "https://www.vigilicons.com/icons/svg/{slug}.svg",
+ "png": "https://www.vigilicons.com/icons/{slug}.png",
+ "sprite": "https://www.vigilicons.com/icons/sprite.svg",
+ "icons": [
+  {
+   "n": 1,
+   "slug": "gaslighting",
+   "name": "Gaslighting",
+   "description": "When someone rewrites reality and expects you to accept the edit.",
+   "drawing": "Classic lantern with an upright flame inside and light rays radiating from both sides",
+   "set": "heroes",
+   "badges": [
+    "Signature"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 2,
+   "slug": "red-flag",
+   "name": "Red flag",
+   "description": "The warning sign you noticed, ignored, and later screenshotted.",
+   "drawing": "Swallowtail flag, small X badge. The red does most of the semantic work",
+   "set": "heroes",
+   "badges": [
+    "Signature"
+   ],
+   "entry": "/words/red-flag",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 3,
+   "slug": "narcissist",
+   "name": "Narcissist",
+   "description": "Every mirror is a standing ovation.",
+   "drawing": "Arched mirror; the heart is too big to fit and breaks through the frame",
+   "set": "heroes",
+   "badges": [
+    "Signature"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 4,
+   "slug": "mansplaining",
+   "name": "Mansplaining",
+   "description": "Explaining your own point back to you, but louder.",
+   "drawing": "Large speech bubble with two lines of text and a full handlebar mustache under them, looming over a tiny empty bubble; their tails point opposite ways",
+   "set": "heroes",
+   "badges": [
+    "Signature"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 5,
+   "slug": "ghosting",
+   "name": "Ghosting",
+   "description": "The breakup nobody announces.",
+   "drawing": "Figure whose lower half dissolves into smaller fragments, mid-presence",
+   "set": "heroes",
+   "badges": [
+    "Signature"
+   ],
+   "entry": "/words/ghosting",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 6,
+   "slug": "the-ick",
+   "name": "The ick",
+   "description": "That tiny thing that somehow ends the entire fantasy.",
+   "drawing": "Full-body recoil from one tiny, innocuous speck. The disproportion is the joke",
+   "set": "heroes",
+   "badges": [],
+   "entry": "/words/the-ick",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 7,
+   "slug": "weaponized-incompetence",
+   "name": "Weaponized incompetence",
+   "description": "Doing it badly enough that nobody asks twice.",
+   "drawing": "Stack of three neatly folded clothes beside one crumpled wad of laundry",
+   "set": "heroes",
+   "badges": [
+    "Signature"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 8,
+   "slug": "breadcrumbing",
+   "name": "Breadcrumbing",
+   "description": "Just enough attention to keep you checking the door.",
+   "drawing": "Dashed winding trail leading to a door standing open, with no one behind it",
+   "set": "heroes",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 9,
+   "slug": "love-bombing",
+   "name": "Love bombing",
+   "description": "Affection at a volume that should come with ear protection.",
+   "drawing": "One small person under an uncomfortably dense barrage of hearts. More than feels romantic",
+   "set": "heroes",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 10,
+   "slug": "main-character-syndrome",
+   "name": "Main character syndrome",
+   "description": "Everyone else is apparently supporting cast.",
+   "drawing": "One figure dead-center in a theatrical spotlight cone. Everything outside disappears",
+   "set": "heroes",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 11,
+   "slug": "couldve-been-an-email",
+   "name": "Could’ve been an email",
+   "description": "Thirty minutes of everyone’s life, now unrecoverable.",
+   "drawing": "Envelope with a whole conference table and three tiny heads stuffed inside",
+   "set": "heroes",
+   "badges": [
+    "Keno’s pick"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 12,
+   "slug": "rent-free",
+   "name": "Rent-free",
+   "description": "Living in your head without paying utilities.",
+   "drawing": "Head in profile; a tiny complete house occupies the brain area",
+   "set": "heroes",
+   "badges": [
+    "Signature"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 13,
+   "slug": "helicopter-parent",
+   "name": "Helicopter parent",
+   "description": "Love, supervision, and absolutely no airspace.",
+   "drawing": "Small child under a rotor hovering directly over their head. No helicopter body",
+   "set": "heroes",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 14,
+   "slug": "trauma-dump",
+   "name": "Trauma dump",
+   "description": "When “quick story” becomes emotional freight delivery.",
+   "drawing": "Tipped bucket pouring a shower of hearts onto a hunched figure below",
+   "set": "heroes",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 15,
+   "slug": "receipts",
+   "name": "Receipts",
+   "description": "Memory is debatable. Screenshots are not.",
+   "drawing": "Phone producing a long receipt strip of tiny chat marks. Evidence as a literal receipt",
+   "set": "heroes",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 16,
+   "slug": "situationship",
+   "name": "Situationship",
+   "description": "Too involved to be casual, too vague to be official.",
+   "drawing": "Two toothbrushes, one cup. One sits properly; the other is already leaning halfway out",
+   "set": "heroes",
+   "badges": [
+    "Signature",
+    "Keno’s pick"
+   ],
+   "entry": "/words/situationship",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 17,
+   "slug": "beige-flag",
+   "name": "Beige flag",
+   "description": "Not a warning. Just… oddly specific.",
+   "drawing": "Swallowtail flag on a pole bearing a single tilde",
+   "set": "heroes",
+   "badges": [],
+   "entry": "/words/beige-flag",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 18,
+   "slug": "pick-me",
+   "name": "Pick me",
+   "description": "Trying so hard to be chosen that everyone notices.",
+   "drawing": "A row of people; one arm stretches absurdly farther up than everyone else’s",
+   "set": "heroes",
+   "badges": [
+    "Spicy"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 19,
+   "slug": "soft-launch",
+   "name": "Soft launch",
+   "description": "You met someone. The internet gets about 17% of them.",
+   "drawing": "Photo frame: one person clear, the second cropped to half at the edge",
+   "set": "heroes",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 20,
+   "slug": "eldest-daughter-syndrome",
+   "name": "Eldest daughter syndrome",
+   "description": "Carrying the family group project since birth.",
+   "drawing": "Small figure staggering under a stack of three suitcases taller than she is",
+   "set": "heroes",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 21,
+   "slug": "green-flag",
+   "name": "Green flag",
+   "description": "A warning sign, except good.",
+   "drawing": "Flag on a pole with a check mark inside it",
+   "set": "core",
+   "badges": [],
+   "entry": "/words/green-flag",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 22,
+   "slug": "boundaries",
+   "name": "Boundaries",
+   "description": "No, said politely. Then said again.",
+   "drawing": "Picket fence with a gap in the middle and a heart floating above it, three short rays over the heart",
+   "set": "core",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 23,
+   "slug": "mental-load",
+   "name": "Mental load",
+   "description": "Remembering everything nobody else remembered to remember.",
+   "drawing": "Person with stress marks around the head; a calendar, checkbox and house float above",
+   "set": "core",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 24,
+   "slug": "man-child",
+   "name": "Man child",
+   "description": "Adult-sized. Responsibility sold separately.",
+   "drawing": "Adult-sized figure wearing a tiny baby bib. One juvenile cue only",
+   "set": "core",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 25,
+   "slug": "anxious-attachment",
+   "name": "Anxious attachment",
+   "description": "One unread message away from a full internal summit.",
+   "drawing": "Figure holding up a phone, a dashed line arcing from the phone to a heart beside them",
+   "set": "core",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 26,
+   "slug": "love-language",
+   "name": "Love language",
+   "description": "How affection gets translated, misread, and occasionally returned to sender.",
+   "drawing": "Speech bubble as a language-selector UI: heart as the language, big dropdown chevron",
+   "set": "core",
+   "badges": [
+    "Keno’s pick"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 27,
+   "slug": "avoidant-attachment",
+   "name": "Avoidant attachment",
+   "description": "Feelings detected. Emergency exit located.",
+   "drawing": "Figure stepping away from a heart, connection line stretching behind. Pairs with 25",
+   "set": "core",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 28,
+   "slug": "grounding",
+   "name": "Grounding",
+   "description": "Coming back to earth before your nervous system runs the show.",
+   "drawing": "Person standing calmly with roots growing down from their feet through a ground line",
+   "set": "core",
+   "badges": [
+    "Keno’s pick"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 29,
+   "slug": "reply-guy",
+   "name": "Reply guy",
+   "description": "He has a response. He always has a response.",
+   "drawing": "Figure leaning head and torso into someone else’s speech bubble",
+   "set": "core",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 30,
+   "slug": "gatekeeping",
+   "name": "Gatekeeping",
+   "description": "Great taste, guarded like a password.",
+   "drawing": "Velvet rope; one figure holds the latch from inside while another waits outside",
+   "set": "core",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 31,
+   "slug": "nepo-baby",
+   "name": "Nepo baby",
+   "description": "Starting on third base with a family group chat.",
+   "drawing": "Ladder whose every rung is broken into dashes; a figure already stands on the solid top",
+   "set": "core",
+   "badges": [
+    "Spicy"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 32,
+   "slug": "daddy-issues",
+   "name": "Daddy issues",
+   "description": "An empty chair that still gets a vote.",
+   "drawing": "Empty armchair, untouched briefcase beside it. Presence through absence",
+   "set": "core",
+   "badges": [
+    "Spicy"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 33,
+   "slug": "mommy-issues",
+   "name": "Mommy issues",
+   "description": "Left home years ago. The strings didn’t.",
+   "drawing": "Apron with a patch pocket; the waist string runs out and is knotted to the handle of a small briefcase leaning away, mid-tug",
+   "set": "core",
+   "badges": [
+    "Spicy"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 34,
+   "slug": "people-pleaser",
+   "name": "People pleaser",
+   "description": "Bending over backward until it’s basically a personality.",
+   "drawing": "Figure bending their whole body into a checkmark toward another person",
+   "set": "core",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 35,
+   "slug": "flaky",
+   "name": "Flaky",
+   "description": "Plans were made. Plans were also apparently optional.",
+   "drawing": "Calendar page with one corner crumbling into flakes",
+   "set": "core",
+   "badges": [
+    "Keno’s pick"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 36,
+   "slug": "emotionally-unavailable",
+   "name": "Emotionally unavailable",
+   "description": "Present in the room. Closed for business.",
+   "drawing": "Heart behind a fully closed roll-down storefront shutter",
+   "set": "core",
+   "badges": [
+    "Keno’s pick"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 37,
+   "slug": "delulu",
+   "name": "Delulu",
+   "description": "Confidence thriving independently of available evidence.",
+   "drawing": "Person with a thought bubble containing a sparkling fantasy castle",
+   "set": "core",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 38,
+   "slug": "terminally-online",
+   "name": "Terminally online",
+   "description": "Knows the discourse. Has not seen daylight.",
+   "drawing": "Seated figure typing on a laptop, their lower body trailing off into a charging cable and plug",
+   "set": "core",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 39,
+   "slug": "parentified-child",
+   "name": "Parentified child",
+   "description": "Doing the grown-up job before you got the grown-up years.",
+   "drawing": "Very small child carrying an oversized adult briefcase",
+   "set": "core",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 40,
+   "slug": "cringe",
+   "name": "Cringe",
+   "description": "Your whole body filing an objection at once.",
+   "drawing": "Figure folding inward, hiding their own face. No external target — unlike The Ick",
+   "set": "core",
+   "badges": [],
+   "entry": "/words/cringe",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 41,
+   "slug": "reparenting",
+   "name": "Reparenting",
+   "description": "Giving yourself the care somebody forgot to install.",
+   "drawing": "Adult tucking a miniature version of themselves into bed",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 42,
+   "slug": "low-key",
+   "name": "Low key",
+   "description": "Understatement that fools absolutely nobody.",
+   "drawing": "Meter needle parked low on the dial, well short of the middle",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 43,
+   "slug": "favorite-child",
+   "name": "Favorite child",
+   "description": "Sibling equality, but with a visible exception.",
+   "drawing": "Three identical figures in a row; a heart floats above the middle one only",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 44,
+   "slug": "middle-child",
+   "name": "Middle child",
+   "description": "Somewhere between “the oldest” and “wait, where are they?”",
+   "drawing": "Three figures; the center one partly cropped out by the other two",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 45,
+   "slug": "cooked",
+   "name": "Cooked",
+   "description": "Past tired. Past done. Fully over.",
+   "drawing": "Steaming slice of toast with X eyes and a frown, its stick arms and legs splayed limply",
+   "set": "expansion",
+   "badges": [
+    "Signature",
+    "Keno’s pick"
+   ],
+   "entry": "/words/cooked",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 46,
+   "slug": "deadbeat-dad",
+   "name": "Deadbeat dad",
+   "description": "Fatherhood with suspiciously low attendance.",
+   "drawing": "Dinner table, one occupied place, one obviously empty chair",
+   "set": "expansion",
+   "badges": [
+    "Spicy"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 47,
+   "slug": "orbiting",
+   "name": "Orbiting",
+   "description": "Still watching. Still reacting. Still not actually showing up.",
+   "drawing": "Tiny person on a dotted orbit around another’s profile, never approaching",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 48,
+   "slug": "only-child",
+   "name": "Only child",
+   "description": "The original one-person group project.",
+   "drawing": "One person dead-center on a three-seat couch, both sides empty",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 49,
+   "slug": "milf",
+   "name": "MILF",
+   "description": "Mom status. Main-character confidence. Acronym understood.",
+   "drawing": "Woman with long wavy hair and sunglasses, one hand raised into her hair, a heart beside her",
+   "set": "expansion",
+   "badges": [
+    "Spicy"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 50,
+   "slug": "dilf",
+   "name": "DILF",
+   "description": "Dad energy with an unfair amount of charisma.",
+   "drawing": "Bare-chested man with short hair and sunglasses, a heart floating beside his head",
+   "set": "expansion",
+   "badges": [
+    "Spicy"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 51,
+   "slug": "manscaping",
+   "name": "Manscaping",
+   "description": "Landscaping, but the property has a gym membership.",
+   "drawing": "Round topiary on a stem, small shears trimming its edge",
+   "set": "expansion",
+   "badges": [
+    "Spicy"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 52,
+   "slug": "micromanager",
+   "name": "Micromanager",
+   "description": "Delegation, followed immediately by standing over your shoulder.",
+   "drawing": "Huge magnifying glass showing a two-item checklist with both boxes ticked, and a small person standing beside it",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 53,
+   "slug": "one-upper",
+   "name": "One-upper",
+   "description": "Whatever you did, they somehow did it slightly more.",
+   "drawing": "Two figures on podium stands; one has an extra block stacked under its feet, motion lines beside it",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 54,
+   "slug": "two-faced",
+   "name": "Two-faced",
+   "description": "One face for the room, one for the group chat.",
+   "drawing": "Single head with a second face hinging out from behind the first",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 55,
+   "slug": "oversharer",
+   "name": "Oversharer",
+   "description": "One question away from the director’s cut.",
+   "drawing": "Speech bubble full of text lines, smaller bubbles tumbling out of its open bottom and trailing away",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 56,
+   "slug": "ipad-kid",
+   "name": "iPad kid",
+   "description": "Raised by touchscreen, powered by 3% battery.",
+   "drawing": "Seated child; the tablet nearly covers face and torso",
+   "set": "expansion",
+   "badges": [
+    "Spicy"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 57,
+   "slug": "touch-grass",
+   "name": "Touch grass",
+   "description": "A gentle invitation to rejoin the physical universe.",
+   "drawing": "Finger making contact with three blades of grass, tiny spark",
+   "set": "expansion",
+   "badges": [
+    "Keno’s pick"
+   ],
+   "entry": "/words/touch-grass",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 58,
+   "slug": "lurk",
+   "name": "Lurk",
+   "description": "Present, watching, contributing absolutely nothing.",
+   "drawing": "Only a pair of eyes just above the top edge of a screen",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 59,
+   "slug": "gen-z-stare",
+   "name": "Gen Z stare",
+   "description": "The look that says more by refusing to.",
+   "drawing": "Two small eyes, aggressively blank lower half. No mouth",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 60,
+   "slug": "npc",
+   "name": "NPC",
+   "description": "Running the same dialogue tree on repeat.",
+   "drawing": "One solid figure standing between two dashed-outline copies of itself",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 61,
+   "slug": "slay",
+   "name": "Slay",
+   "description": "You didn’t just do it. You annihilated the assignment.",
+   "drawing": "Hand snapping its fingers, with short burst lines flying off the snap",
+   "set": "expansion",
+   "badges": [
+    "Keno’s pick"
+   ],
+   "entry": "/words/slay",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 62,
+   "slug": "vibe",
+   "name": "Vibe",
+   "description": "No thoughts, and the water is exactly right.",
+   "drawing": "Person reclining back on a flamingo pool float, one splash beside it",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 63,
+   "slug": "doomscrolling",
+   "name": "Doomscrolling",
+   "description": "Still scrolling long after the information stopped helping.",
+   "drawing": "Phone, oversized thumb dragging down, screen content turning into a spiral",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 64,
+   "slug": "youre-on-mute",
+   "name": "You’re on mute",
+   "description": "The modern ritual of speaking beautifully into silence.",
+   "drawing": "Person speaking into a slashed microphone",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 65,
+   "slug": "read-receipt-2-47am",
+   "name": "Read receipt 2:47am",
+   "description": "Seen. At a concerning hour. No response.",
+   "drawing": "Phone showing two check marks, with a crescent moon beside it",
+   "set": "expansion",
+   "badges": [
+    "Signature"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 66,
+   "slug": "typing-indicator-vanishes",
+   "name": "Typing indicator vanishes",
+   "description": "Hope appeared, blinked three times, and left.",
+   "drawing": "Bubble with three typing dots; the last one is breaking apart",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 67,
+   "slug": "deepfake",
+   "name": "Deepfake",
+   "description": "Looks real. Sounds real. Isn’t.",
+   "drawing": "Face with a second face peeling away from its side like a mask",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 68,
+   "slug": "voice-agent",
+   "name": "Voice agent",
+   "description": "Picks up on the first ring. Nobody has since 2009.",
+   "drawing": "Speech bubble containing a single vertical bar",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 69,
+   "slug": "quiet-quitting",
+   "name": "Quiet quitting",
+   "description": "Doing the job without donating your soul.",
+   "drawing": "Person walking away from an empty desk and chair, one checked box on the wall above",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 70,
+   "slug": "ai-slop",
+   "name": "AI slop",
+   "description": "Infinite content. Suspiciously little thought.",
+   "drawing": "Robot head dribbling slop down over a content card, one drop falling clear",
+   "set": "expansion",
+   "badges": [
+    "Keno’s pick"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 71,
+   "slug": "holding-space",
+   "name": "Holding space",
+   "description": "Saying nothing, but therapeutically.",
+   "drawing": "Two open hands cupping an empty speech bubble. The emptiness is intentional",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 72,
+   "slug": "inner-child",
+   "name": "Inner child",
+   "description": "The smaller you still occasionally running the meeting.",
+   "drawing": "Adult silhouette with a small child silhouette nested in the torso",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 73,
+   "slug": "bare-minimum",
+   "name": "Bare minimum",
+   "description": "Technically completed. Spiritually absent.",
+   "drawing": "Checklist with three items, only the first box ticked",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 74,
+   "slug": "hard-launch",
+   "name": "Hard launch",
+   "description": "The relationship has officially entered the feed.",
+   "drawing": "Tilted snapshot of two people side by side with a heart above them",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 75,
+   "slug": "therapy-speak",
+   "name": "Therapy speak",
+   "description": "Using “capacity” to mean no.",
+   "drawing": "Speech bubble containing a tiny therapy couch",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 76,
+   "slug": "fine",
+   "name": "“Fine”",
+   "description": "The least believable four letters in English.",
+   "drawing": "Calm neutral face above two hands white-knuckling a table edge",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 77,
+   "slug": "energy-vampire",
+   "name": "Energy vampire",
+   "description": "One conversation and your battery is suddenly at 4%.",
+   "drawing": "Caped vampire with fangs holding a nearly empty battery",
+   "set": "expansion",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 78,
+   "slug": "brah",
+   "name": "Brah",
+   "description": "A whole friendship, delivered in one syllable.",
+   "drawing": "Shaka hand thrown loose, thumb and little finger out, three emphasis lines above",
+   "set": "expansion",
+   "badges": [
+    "Keno’s pick"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 79,
+   "slug": "simp",
+   "name": "Simp",
+   "description": "Devotion with zero leverage.",
+   "drawing": "Kneeling person reaching up to hand over a heart, the heart beaming above them",
+   "set": "expansion",
+   "badges": [
+    "Spicy"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 80,
+   "slug": "sus",
+   "name": "Sus",
+   "description": "Something is off, and your eyebrow knows it.",
+   "drawing": "Minimal face, two eyes, one eyebrow raised. Nothing else",
+   "set": "expansion",
+   "badges": [
+    "Signature"
+   ],
+   "entry": "/words/sus",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 81,
+   "slug": "mid",
+   "name": "Mid",
+   "description": "Not bad enough to hate. Not good enough to care.",
+   "drawing": "Meter needle sitting perfectly, unapologetically dead center",
+   "set": "bench",
+   "badges": [
+    "Signature"
+   ],
+   "entry": "/words/mid",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 82,
+   "slug": "hot-take",
+   "name": "Hot take",
+   "description": "An opinion served above the recommended temperature.",
+   "drawing": "Speech bubble with a thermometer pushed into the hot zone",
+   "set": "bench",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 83,
+   "slug": "cap-no-cap",
+   "name": "Cap / No cap",
+   "description": "Lie detected. Or dead serious. Choose accordingly.",
+   "drawing": "Baseball cap on the left of a slash, a crossed-out 'no' circle on the right",
+   "set": "bench",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 84,
+   "slug": "tldr",
+   "name": "TL;DR",
+   "description": "For when the paragraph had ambition and you did not.",
+   "drawing": "Document with four long lines, a down arrow, then two shorter lines",
+   "set": "bench",
+   "badges": [
+    "Signature"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 85,
+   "slug": "brain-rot",
+   "name": "Brain rot",
+   "description": "When the feed starts marinating your frontal lobe.",
+   "drawing": "Brain with a phone half sunk into it, emphasis lines above",
+   "set": "bench",
+   "badges": [
+    "Keno’s pick"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 86,
+   "slug": "flex",
+   "name": "Flex",
+   "description": "A humblebrag that forgot the humble.",
+   "drawing": "Flexed bicep with a price tag hanging from the fist and two emphasis marks",
+   "set": "bench",
+   "badges": [],
+   "entry": "/words/flex",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 87,
+   "slug": "noob",
+   "name": "Noob",
+   "description": "New here, and somehow making it everyone’s problem.",
+   "drawing": "Little figure with training wheels attached to their feet",
+   "set": "bench",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 88,
+   "slug": "salty",
+   "name": "Salty",
+   "description": "Still bothered. Pretending not to be.",
+   "drawing": "Person beneath a tilted salt shaker pouring directly onto them",
+   "set": "bench",
+   "badges": [
+    "Signature",
+    "Keno’s pick"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 89,
+   "slug": "stan",
+   "name": "Stan",
+   "description": "Fan behavior with the volume knob removed.",
+   "drawing": "Tiny fan with an enormous foam finger aimed at a star",
+   "set": "bench",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 90,
+   "slug": "glow-up",
+   "name": "Glow up",
+   "description": "Same person. Better lighting, confidence, or both.",
+   "drawing": "Dashed-outline figure, an arrow, then a solid figure with two sparkles above",
+   "set": "bench",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 91,
+   "slug": "performative",
+   "name": "Performative",
+   "description": "Doing the right thing where the camera can see it.",
+   "drawing": "Hands making a heart directly in front of a camera lens",
+   "set": "bench",
+   "badges": [],
+   "entry": "/words/performative",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 92,
+   "slug": "rage-bait",
+   "name": "Rage bait",
+   "description": "Wrong on purpose. Working as intended.",
+   "drawing": "Fish hook dangling a speech bubble with a furious face in it, emphasis lines beside",
+   "set": "bench",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 93,
+   "slug": "rizz",
+   "name": "Rizz",
+   "description": "Charm with an unusually high conversion rate.",
+   "drawing": "Person talking, charm carrying across in arcs to a heart that is beaming",
+   "set": "bench",
+   "badges": [],
+   "entry": "/words/rizz",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 94,
+   "slug": "lets-go",
+   "name": "Let’s go",
+   "description": "Enthusiasm that arrives well before the details.",
+   "drawing": "Paper aeroplane climbing away, speed lines behind it and sparks off the nose",
+   "set": "bench",
+   "badges": [
+    "Keno’s pick"
+   ],
+   "entry": "/words/lets-go",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 95,
+   "slug": "tiger-mom",
+   "name": "Tiger mom",
+   "description": "Love, expectations, and one suspiciously high GPA.",
+   "drawing": "Scowling tiger holds up an A+ report card, looming over a small child",
+   "set": "bench",
+   "badges": [
+    "Spicy"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 96,
+   "slug": "trust-fund-kid",
+   "name": "Trust fund kid",
+   "description": "Bold career choices, quietly underwritten.",
+   "drawing": "Champagne flute standing against a scroll of text, with sparkles above",
+   "set": "bench",
+   "badges": [
+    "Spicy"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 97,
+   "slug": "peaked-in-high-school",
+   "name": "Peaked in high school",
+   "description": "The glory days are doing a lot of heavy lifting.",
+   "drawing": "Letterman jacket with an H patch beside a star under an empty dotted speech bubble",
+   "set": "bench",
+   "badges": [
+    "Spicy"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 98,
+   "slug": "protect-your-peace",
+   "name": "Protect your peace",
+   "description": "Do not disturb, as a lifestyle.",
+   "drawing": "Person in headphones inside a small shield; noise bounces off",
+   "set": "bench",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 99,
+   "slug": "opp",
+   "name": "OPP",
+   "description": "Other people’s. You already know what the last P stands for.",
+   "drawing": "Jeans from behind: waistband with belt loops, two back pockets, the seam down the middle",
+   "set": "bench",
+   "badges": [
+    "Spicy"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 100,
+   "slug": "sesh",
+   "name": "Sesh",
+   "description": "Short for session. Long for regret.",
+   "drawing": "Two tumblers clinking, three sparks above",
+   "set": "bench",
+   "badges": [
+    "Signature",
+    "Spicy",
+    "Keno’s pick"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 101,
+   "slug": "shady",
+   "name": "Shady",
+   "description": "Something about this is wearing sunglasses indoors.",
+   "drawing": "Person peeking out from behind a wall edge, one eye and a gripping hand visible",
+   "set": "bench",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 102,
+   "slug": "clingy",
+   "name": "Clingy",
+   "description": "Personal space is apparently a group activity.",
+   "drawing": "Adult mid-stride; a smaller figure clamped to one leg, dragged flat along the ground. No motion marks — the horizontal body is the joke",
+   "set": "cultural-tech",
+   "badges": [],
+   "entry": "/words/clingy",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 103,
+   "slug": "dope",
+   "name": "Dope",
+   "description": "So good it survived several generations of slang.",
+   "drawing": "Boombox front-on with two round speakers and a carry handle on top",
+   "set": "cultural-tech",
+   "badges": [
+    "Keno’s pick"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 104,
+   "slug": "six-seven",
+   "name": "6/7",
+   "description": "The meme that means everything, nothing, and somehow still lands.",
+   "drawing": "The numerals themselves, big, with the slash — the set’s one deliberate exception to no words, because the joke is the numbers. No burst lines",
+   "set": "cultural-tech",
+   "badges": [
+    "Signature"
+   ],
+   "entry": "/words/67",
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 105,
+   "slug": "buggin",
+   "name": "Buggin’",
+   "description": "Acting up, with witnesses.",
+   "drawing": "Head in profile with a beetle crawling on the back of the skull, behind the ear",
+   "set": "cultural-tech",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 106,
+   "slug": "fresh",
+   "name": "Fresh",
+   "description": "Clean, cool, new, and very aware of it.",
+   "drawing": "Unbranded high-top, price tag still hanging off the heel. Brand new and wants you to know. The tag does the work; no sparkle",
+   "set": "cultural-tech",
+   "badges": [
+    "Keno’s pick"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 107,
+   "slug": "ai-girlfriend",
+   "name": "AI girlfriend",
+   "description": "Synthetic affection. Real notifications.",
+   "drawing": "A heart with a charging port, cable trailing off to the plug. One object; the cable is the tell",
+   "set": "cultural-tech",
+   "badges": [
+    "Spicy"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 108,
+   "slug": "house-robot",
+   "name": "House robot",
+   "description": "The roommate who charges instead of paying rent.",
+   "drawing": "Wall outlet drawn as a face — two slots, one ground hole — up on two little legs, mid-walk. The appliance got up and left",
+   "set": "cultural-tech",
+   "badges": [
+    "Signature"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 109,
+   "slug": "ai-agent",
+   "name": "AI agent",
+   "description": "Given one task. Opened forty tabs.",
+   "drawing": "Open laptop; two hands reach out of the screen and type on its own keyboard. Wrists must visibly cross the screen edge or it reads as a person typing. Must survive 24",
+   "set": "cultural-tech",
+   "badges": [
+    "Signature",
+    "Keno’s pick"
+   ],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 110,
+   "slug": "robo-taxi",
+   "name": "Robo taxi",
+   "description": "Your ride is here. Your driver isn’t.",
+   "drawing": "Car, front view, sensor on the roof where the taxi light goes. Passenger drawn solid; the driver’s seat holds only a dashed outline of a person",
+   "set": "cultural-tech",
+   "badges": [],
+   "entry": null,
+   "free": true,
+   "drawn": true
+  },
+  {
+   "n": 111,
+   "slug": "lock-in",
+   "name": "Lock in",
+   "description": "Distractions off. Tunnel vision on.",
+   "drawing": "Wide open eye with a padlock shackle arching over it, focus lines either side",
+   "set": "cultural-tech",
+   "badges": [
+    "Signature"
+   ],
+   "entry": "/words/lock-in",
+   "free": true,
+   "drawn": true
+  }
+ ]
+}

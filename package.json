@@ -1,0 +1,62 @@
+{
+  "name": "vigil-icons",
+  "version": "2.0.0",
+  "description": "111 stroke-first, rounded-corner icons for the things people accuse each other of \u2014 gaslighting, ghosting, red flag, situationship. 24 viewBox, single path, currentColor. Free.",
+  "license": "OFL-1.1",
+  "author": "Keno Vigil (https://thinkkeno.com)",
+  "homepage": "https://www.vigilicons.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigilantkeno/vigil-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vigilantkeno/vigil-icons/issues"
+  },
+  "keywords": [
+    "icons",
+    "svg",
+    "react",
+    "icon-set",
+    "stroke-icons",
+    "gaslighting",
+    "ghosting",
+    "red-flag",
+    "vigil"
+  ],
+  "type": "module",
+  "sideEffects": false,
+  "files": [
+    "svg",
+    "sprite.svg",
+    "react",
+    "web",
+    "icons.json",
+    "LICENSE.txt",
+    "README.md"
+  ],
+  "exports": {
+    ".": {
+      "types": "./react/index.d.ts",
+      "import": "./react/index.js",
+      "require": "./react/index.cjs"
+    },
+    "./react": {
+      "types": "./react/index.d.ts",
+      "import": "./react/index.js",
+      "require": "./react/index.cjs"
+    },
+    "./web": "./web/vigil-icon.js",
+    "./sprite.svg": "./sprite.svg",
+    "./icons.json": "./icons.json",
+    "./svg/*": "./svg/*",
+    "./package.json": "./package.json"
+  },
+  "peerDependencies": {
+    "react": ">=16.8"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    }
+  }
+}
